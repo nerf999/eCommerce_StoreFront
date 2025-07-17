@@ -18,4 +18,6 @@ This project was developed over the course of several months.
 It began as a simple C# console application with basic class structures and evolved into a full-featured application using the .NET MAUI framework.
  Server-side functionality was gradually integrated to manage stock persistence and communication.
 
+ To run just clone repository into microsoft visual studio community. Build the project and if prompted install any dependencies.
+
  
